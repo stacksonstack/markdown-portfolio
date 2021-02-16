@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Animals I love
+  * Cats
+  * Dogs
+  * Turtles
+* Foods I love
+  * Pizza
+  * Sushi
+  * Tacos
+  * Burgers
