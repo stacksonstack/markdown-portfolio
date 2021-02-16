@@ -1,0 +1,1 @@
+When I first began the code the language I used was *C++* and even though it was hard I continued on and learned other languages like *C#* and *Java*. However, I didn't love any of them until I started to learn **JAVASCRIPT!**. Soon after I learned how to style using **CSS** :)
